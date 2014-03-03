@@ -1,0 +1,14 @@
+.navbar 
+{
+border-radius: 0;
+}
+.navbar-inverse {
+background-color: #fff;
+border-color: #222;
+}
+.navbar {
+position: relative;
+min-height: 100px;
+margin-bottom: 20px;
+border: 1px solid transparent;
+}
